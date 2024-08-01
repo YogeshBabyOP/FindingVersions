@@ -1,0 +1,25 @@
+Languages.
+
+Python : python --version
+Java   : java -version
+C      : gcc - or gcc --version
+C++    : g++ -v or g++ --version
+goLang : go version
+rust   : rustc --version
+
+web.
+
+node       : node -v or node --version
+javascript : no version brother
+typescript : tsc -v or tsc --version
+
+
+DataBase.
+
+mongoDB : mongo --version or mongod --version
+sql     : mysql --version
+
+
+Git.
+
+git : git --version
